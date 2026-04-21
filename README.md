@@ -1,20 +1,26 @@
-# calculadora-estatistica
+# Calculadora Estatística
 
-Aplicação desenvolvida em Python com interface gráfica utilizando PyQt5.
+Aplicação em Python com interface gráfica para análise estatística de dados.
 
-## Funcionalidades
+## 🚀 Funcionalidades
 - Média
 - Mediana
-- Moda (classificação: amodal, unimodal, etc.)
+- Moda (amodal, unimodal, bimodal…)
 - Variância
 - Desvio padrão
 - Coeficiente de variação
 - Tabela de frequência
 
-## Tecnologias
+## 🛠 Tecnologias
 - Python
 - PyQt5
 
-## Como executar
+## ▶️ Como executar
 pip install PyQt5
 python calculadora_estatistica.py
+
+## 📷 Interface
+(coloca um print aqui)
+
+## 📌 Sobre o projeto
+Projeto desenvolvido com foco em aprendizado de estatística aplicada e desenvolvimento de interfaces gráficas em Python.
